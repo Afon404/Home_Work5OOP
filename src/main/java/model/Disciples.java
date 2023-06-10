@@ -1,2 +1,9 @@
-package model;public class Disciples {
+package model;
+
+public enum Disciples {
+    MATH,
+    GEOGRAPHY,
+    LITERATURE,
+    PROGRAMMING
 }
+
